@@ -18,6 +18,6 @@ A JetBrains plugin that converts JSON to TypeScript. This tool simplifies genera
 - **Data Development:** PySpark ETL, SQL
 
 ## Contact
-- **X:** [X](https://x.com/wuvidy)]
+- **X:** [X](https://x.com/wuvidy)
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
